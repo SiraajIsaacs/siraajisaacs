@@ -8,6 +8,7 @@ Let my journey into the world of technology unfold...
 - CSS
 - JavaScript
 - UI/UX Design
+- SQL
 ---
 
 
